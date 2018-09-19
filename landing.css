@@ -1,0 +1,18 @@
+.navbar {background-color:#fff!important;height: 70px;position: sticky; top: 0;  z-index: 1071;border-bottom: 1px solid #57abd9}
+.navbar img{position: relative;right: 70px;z-index: 50px;}
+.jordan-location{width: 100%;height: 300px;padding: 0px 50px 0px 25px}
+.jordan-location h1{color: red;}
+.jordan-History{width: 100%;height: 600px;padding: 0px 50px 0px 25px}
+.jordan-History h1{color: red}
+.navbar-nav {padding-left:200px;font-size:15px;font-weight: bold}
+.navbar-nav li a{color: #57abd9!important}
+.title{font-weight: bold;font-size: 20px;color: #57abd9;padding-top: 8px;text-shadow:1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;}
+.background-div{width: 100%;background-image: url("images/bac-image.jpg");background-repeat: no-repeat;height: 300px;}
+.container-fluid {margin-top: 30px}
+.card{position: relative;top: 80px}
+.card-header{background-color: #57abd9;color: #fff}
+.slide-pic{padding-top: 150px;}
+.slide-pic img{width: 150px;height: 450px;}
+.last-row{padding-top: 150px}
+.footer-daown{position: relative;top: 150px; height:80px;background-color:#ededed;border-top: 1px solid #57abd9}
+.footer-daown p{font-size: 35px;font-family: fantasy;color: #57abd9;text-align: center;padding-top: 15px}
